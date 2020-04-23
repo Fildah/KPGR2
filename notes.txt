@@ -1,0 +1,20 @@
+Používání:
+
+WSAD - pohyb v prostoru
+Myš - rozhlížení v prostoru
+
+Perspektiva
+o - přepnutí do Ortogonálního zobrazení
+p - přepnutí do Perspektivního zobrazení
+
+Model
+u - plochy
+i - dráty
+
+Posun 
+t - rotace krychle a jehlanu osou X nahoru
+g - rotace krychle a jehlanu osou X dolu
+f - rotace krychle a jehlanu osou Y nahoru
+h - rotace krychle a jehlanu osou Y dolu
+k - rotace krychle a jehlanu osou Z nahoru
+l - rotace krychle a jehlanu osou Z dolu
